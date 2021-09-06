@@ -1,4 +1,4 @@
-# nft-mix
+# nft-gov
 
 <br/>
 <p align="center">
@@ -10,11 +10,10 @@
 </p>
 <br/>
 
-This is a repo to work with and use NFTs smart contracts in a python environment, using the Chainlink-mix as a starting point. 
+//This is a repo to work with and use NFTs smart contracts in a python environment, using the Chainlink-mix as a starting point. 
 
-If you'd like to see another repo using random NFTs that are deployed to mainnet, check out the [D&D package](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft).
-
-## Prerequisites
+it has been forked to attempt to implement governance on top of existing ERC-721. Be it by minting or by wrapping.
+nothing is gurranteed and these contracts are highly experimental. They could lead to loss of funds/assets and are not production ready, feel free to support and contribute where you see fit
 
 Please install or have installed the following:
 
