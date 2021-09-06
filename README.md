@@ -15,6 +15,8 @@
 it has been forked to attempt to implement governance on top of existing ERC-721. Be it by minting or by wrapping.
 nothing is gurranteed and these contracts are highly experimental. They could lead to loss of funds/assets and are not production ready, feel free to support and contribute where you see fit
 
+under /contracts/experimental... you will see where improvements are needed
+
 Please install or have installed the following:
 
 - [nodejs and npm](https://nodejs.org/en/download/)
